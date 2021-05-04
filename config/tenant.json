@@ -44,7 +44,8 @@
     "sandbox": "/v1/sandboxrun",
     "developers": "/v1/credentials/developers",
     "merchants": "/v1/credentials/merchants",
-    "feature":[
+    "applications": "/v1/credentials/applications",
+ "feature":[
       {
         "name": "sandBox",
         "value": true
